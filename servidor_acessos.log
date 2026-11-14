@@ -1,0 +1,9 @@
+2026-11-14 18:10:01 | IP: 187.45.12.10 | ENDPOINT: /api/cotacoes | STATUS: 200 | MSG: Acesso autorizado
+2026-11-14 18:10:05 | IP: 192.168.1.55 | ENDPOINT: /api/login | STATUS: 401 | MSG: Falha de autenticacao
+2026-11-14 18:10:06 | IP: 192.168.1.55 | ENDPOINT: /api/login | STATUS: 401 | MSG: Falha de autenticacao
+2026-11-14 18:10:07 | IP: 192.168.1.55 | ENDPOINT: /api/login | STATUS: 401 | MSG: Falha de autenticacao
+2026-11-14 18:10:08 | IP: 192.168.1.55 | ENDPOINT: /api/login | STATUS: 401 | MSG: Falha de autenticacao
+2026-11-14 18:11:15 | IP: 200.14.88.99 | ENDPOINT: /api/cotacoes | STATUS: 200 | MSG: Acesso autorizado
+2026-11-14 18:12:00 | IP: 45.22.11.8 | ENDPOINT: /admin | STATUS: 403 | MSG: Acesso proibido
+2026-11-14 18:12:02 | IP: 45.22.11.8 | ENDPOINT: /admin | STATUS: 403 | MSG: Acesso proibido
+2026-11-14 18:12:05 | IP: 45.22.11.8 | ENDPOINT: /admin | STATUS: 403 | MSG: Acesso proibido

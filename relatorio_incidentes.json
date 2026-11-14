@@ -1,0 +1,16 @@
+[
+    {
+        "ip_atacante": "192.168.1.55",
+        "tentativas_bloqueadas": 4,
+        "nivel_risco": "ALTO",
+        "acao_recomendada": "Bloquear IP no Firewall (WAF)",
+        "timestamp_deteccao": "2026-11-14 18:44:55"
+    },
+    {
+        "ip_atacante": "45.22.11.8",
+        "tentativas_bloqueadas": 3,
+        "nivel_risco": "ALTO",
+        "acao_recomendada": "Bloquear IP no Firewall (WAF)",
+        "timestamp_deteccao": "2026-11-14 18:44:55"
+    }
+]
